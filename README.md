@@ -47,4 +47,4 @@ Check out my pinned projects below to see what I’m working on!
 
 ## Интеграции для связи 🔗
 - [**VK**](https://vk.ru/kholin2017) — Для быстрой связи.
-- [**Telegram**](@Kirius257)
+- [**Telegram**](https://t.me/Kirius257) - мой телеграм
