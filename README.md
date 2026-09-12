@@ -41,7 +41,7 @@ My main goal is start professional career in C++ development on postion Junior/M
 ---
 
 
-### My Repositories 📚
+### My Repositories 
 
 Check out my pinned projects below to see what I’m working on!
 
