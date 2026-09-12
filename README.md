@@ -1,10 +1,10 @@
 # Hi, I`m Kirius257 👋
 
-💻 My main goal is start professional career in C++ development on postion Junior/Middle.
+My main goal is start professional career in C++ development on postion Junior/Middle.
 
 ---
 
-### About Me 📖
+### About Me 
 
 - 🎓 deeply focused on **C++, STL, Multithreading, OOP,
                          Data structures and Algorithms**.
@@ -14,7 +14,7 @@
 
 ---
 
-### Current Goals 🔭
+### Current Goals 
 
 - Deepen my knowledge of **C++17/20/23** and modern C++ best practices.
 - Explore **multithreaded and network programming** in C++.
@@ -24,7 +24,7 @@
 
 ---
 
-### Technical Skills 🛠️
+### Technical Skills 
 
 - **Languages:** C++ (C++14/17/20), SQL (PostgreSQL)
 - **Libraries & Tools:** STL, libpqxx, Qt, CMake, Git, GitHub Actions(CI)
@@ -32,7 +32,7 @@
 
 ---
 
-### Where I Learn & Practice 💪
+### Where I Learn & Practice 
 
 - 💻 **LeetCode:** (https://leetcode.com/u/kirius257/) — Solving algorithmic problems to stay sharp.
 - 🌐 **HackerRank:** (https://www.hackerrank.com/profile/holin_kirill) — Practicing SQL and C++.
