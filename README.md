@@ -33,8 +33,8 @@
 
 ### Где я учусь и практикуюсь
 
-- 💻 **LeetCode:** [leetcode.com/u/kirius257](https://leetcode.com/u/kirius257/) — Решаю алгоритмические задачи
-- 🌐 **HackerRank:** [hackerrank.com/profile/holin_kirill](https://www.hackerrank.com/profile/holin_kirill) — Практикую SQL и C++.
+- 💻 **LeetCode:** [leetcode.com/u/kirius257](https://leetcode.com/u/kirius257/) — Алгоритмические задачи
+- 🌐 **HackerRank:** [hackerrank.com/profile/holin_kirill](https://www.hackerrank.com/profile/holin_kirill) — SQL и C++.
 - 📖 **GitHub:** Здесь я храню свои проекты и учебные работы.
 
 ---
