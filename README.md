@@ -1,50 +1,51 @@
-# Hi, I`m Kirius257 👋
+# Привет, я Kirius257 👋
 
-My main goal is start professional career in C++ development on postion Junior/Middle.
-
----
-
-### About Me 
-
-- 🎓 deeply focused on **C++, STL, Multithreading, OOP,
-                         Data structures and Algorithms**.
-- 🛠️ Experienced with **PostgreSQL (libpqxx), CMake, Git, Doxygen, Python(basic), CI**.
-- 🎯 Constantly solving algorithmic problems on LeetCode and HackerRank to sharpen problem-solving skills.
-- 📚 I am sure that discipline and desire are the key to a successful future!
+Моя главная цель — начать профессиональную карьеру в разработке на C++ на позиции Junior/Middle.
 
 ---
 
-### Current Goals 
+### Обо мне
 
-- Deepen my knowledge of **C++17/20/23** and modern C++ best practices.
-- Explore **multithreaded and network programming** in C++.
-- Improve understanding of **system design** and application architecture.
-- Get acquainted with C++ patterns.
-- Secure an internship as a C++ developer on position Junior/Middle.
-
----
-
-### Technical Skills 
-
-- **Languages:** C++ (C++14/17/20), SQL (PostgreSQL)
-- **Libraries & Tools:** STL, libpqxx, Qt, CMake, Git, GitHub Actions(CI)
-- **Core Concepts:** OOP, Data Structures & Algorithms, Multithreading, Memory Management, RAII
+- 🎓 Глубоко сфокусирован на **C++, STL, многопоточности, ООП, структурах данных и алгоритмах**.
+- 🛠️ Имею опыт работы с **PostgreSQL (libpqxx), CMake, Git, Doxygen, Python (базовый), CI**.
+- 🎯 Постоянно решаю алгоритмические задачи на LeetCode и HackerRank, чтобы оттачивать навыки решения проблем.
+- 📚 Я уверен, что дисциплина и желание — ключ к успешному будущему!
 
 ---
 
-### Where I Learn & Practice 
+### Текущие цели
 
-- 💻 **LeetCode:** (https://leetcode.com/u/kirius257/) — Solving algorithmic problems to stay sharp.
-- 🌐 **HackerRank:** (https://www.hackerrank.com/profile/holin_kirill) — Practicing SQL and C++.
-- 📖 **GitHub:** Here’s where I store my projects and lab work.
+- Углубить знания **C++17/20/23** и современных практик C++.
+- Изучить **многопоточное и сетевое программирование** на C++.
+- Улучшить понимание **системного дизайна** и архитектуры приложений.
+- Познакомиться с **паттернами проектирования** C++.
+- Получить стажировку в качестве C++ разработчика на позиции Junior/Middle.
 
 ---
 
+### Технические навыки
 
-### My Repositories 
+- **Языки:** C++ (C++14/17/20), SQL (PostgreSQL)
+- **Библиотеки и инструменты:** STL, libpqxx, Qt, CMake, Git, GitHub Actions (CI)
+- **Ключевые концепции:** ООП, структуры данных и алгоритмы, многопоточность, управление памятью, RAII
 
-Check out my pinned projects below to see what I’m working on!
+---
 
-## Integrations for communication 🔗
-- [**VK**](https://vk.ru/kholin2017) — fast communication
-- [**Telegram**](https://t.me/Kirius257) - my telegram
+### Где я учусь и практикуюсь
+
+- 💻 **LeetCode:** [leetcode.com/u/kirius257](https://leetcode.com/u/kirius257/) — Решаю алгоритмические задачи
+- 🌐 **HackerRank:** [hackerrank.com/profile/holin_kirill](https://www.hackerrank.com/profile/holin_kirill) — Практикую SQL и C++.
+- 📖 **GitHub:** Здесь я храню свои проекты и учебные работы.
+
+---
+
+### Мои репозитории
+
+Посмотрите мои закреплённые проекты ниже, чтобы узнать, над чем я работаю!
+
+---
+
+## Контакты для связи 🔗
+
+- [**VK**](https://vk.ru/kholin2017) — для быстрой связи
+- [**Telegram**](https://t.me/Kirius257) — мой телеграм
